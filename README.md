@@ -28,13 +28,6 @@ man pgloader
 
 Enjoy!
 
-## Notes
-
-Currently installs from
-[benesch/pgloader#homebrew](https://github.com/benesch/pgloader/tree/homebrew),
-my fork of PGLoader. Hoping to get the changes required to support
-Homebrew merged into the upstream build process.
-
 ## Credits
 
 Thanks to [Dimitri Fontaine][fontaine], author of PGLoader.
