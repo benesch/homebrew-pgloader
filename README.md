@@ -1,5 +1,7 @@
 # homebrew-pgloader
 
+**DEPRECATED:** pgloader is now included in [Homebrew][homebrew] itself! Snag it now: `brew update && brew install pgloader`.
+
 An OS X [Homebrew][homebrew] formula to install [PGLoader][pgloader], a
 data loading tool for PostgreSQL.
 
